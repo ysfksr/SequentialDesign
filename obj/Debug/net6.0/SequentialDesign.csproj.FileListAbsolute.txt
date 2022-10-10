@@ -1,0 +1,15 @@
+C:\DotnetApplications\SequentialDesign\bin\Debug\net6.0\SequentialDesign.exe
+C:\DotnetApplications\SequentialDesign\bin\Debug\net6.0\SequentialDesign.deps.json
+C:\DotnetApplications\SequentialDesign\bin\Debug\net6.0\SequentialDesign.runtimeconfig.json
+C:\DotnetApplications\SequentialDesign\bin\Debug\net6.0\SequentialDesign.dll
+C:\DotnetApplications\SequentialDesign\bin\Debug\net6.0\SequentialDesign.pdb
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.csproj.AssemblyReference.cache
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.AssemblyInfoInputs.cache
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.AssemblyInfo.cs
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.csproj.CoreCompileInputs.cache
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.dll
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\refint\SequentialDesign.dll
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.pdb
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\SequentialDesign.genruntimeconfig.cache
+C:\DotnetApplications\SequentialDesign\obj\Debug\net6.0\ref\SequentialDesign.dll
